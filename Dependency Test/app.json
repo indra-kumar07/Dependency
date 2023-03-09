@@ -1,0 +1,39 @@
+{
+  "id": "1dab0c7a-1d68-473a-a88f-0816b686fa39",
+  "name": "Dependency Test",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+  {
+    "id": "ec7f7a11-82f1-4296-911f-e60937c4621e",
+    "name": "Original Layer",
+    "publisher": "Default publisher",
+    "version": "1.0.0.0"
+  }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
