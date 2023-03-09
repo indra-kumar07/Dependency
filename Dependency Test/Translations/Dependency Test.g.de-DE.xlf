@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Dependency Test.g.xlf" tool-id="DTS" product-name="n/a" product-version="n/a" build-num="n/a" request-id="61282">
+    <header>
+      <tool tool-id="DTS" tool-name="DTS" tool-version="1.0.173.950" tool-company="Microsoft Corporation" />
+    </header>
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1774442249 - Control 2496987952 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer PAN No. field.</source>
+          <target state='Reviewed' state-qualifier="mt-suggestion">Gibt den Wert des Felds "Debitoren-PAN-Nr." an.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustLedgerEntriesExt - Control Customer PAN No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1496902179 - Control 2496987952 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer PAN No. field.</source>
+          <target state='Reviewed' state-qualifier="mt-suggestion">Gibt den Wert des Felds "Debitoren-PAN-Nr." an.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExt - Control Customer PAN No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3456710516 - Control 3430986830 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Secondary Code field.</source>
+          <target state='Reviewed' state-qualifier="mt-suggestion">Gibt den Wert des Felds "Sekundärcode Artikel" an.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemCardExt - Control Item Secondary Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2951362845 - Control 3430986830 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Secondary Code field.</source>
+          <target state='Reviewed' state-qualifier="mt-suggestion">Gibt den Wert des Felds "Sekundärcode Artikel" an.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemLedgerEntriesExt - Control Item Secondary Code - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

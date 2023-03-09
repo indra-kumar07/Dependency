@@ -7,4 +7,4 @@
 !app.json
 rad.json
 *.app
-*.g.xlf
+!*.g.xlf
